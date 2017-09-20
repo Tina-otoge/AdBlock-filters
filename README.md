@@ -2,4 +2,4 @@
 
 Get my own filter !
 
-[Subscribe here !!!](apb:subscribe?location=https://raw.githubusercontent.com/skielred/AdBlock-filters/master/filter.txt&title=skielred)
+[Go on this page and click "subscribe here" !](http://skiel.pro/projects/adblock-filter/)
