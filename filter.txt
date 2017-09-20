@@ -1,0 +1,29 @@
+! 7/17/2017, 12:02:59 AM http://imgwallet.com/img-591fa9937f01f.html
+imgwallet.com##.if
+
+! 8/5/2017, 1:04:49 AM http://bombparty.sparklinlabs.com/play/loutreeees
+bombparty.sparklinlabs.com##.BoxPlz
+
+! 8/5/2017, 1:05:56 AM http://bombparty.sparklinlabs.com/play/loutreeees
+bombparty.sparklinlabs.com##.Show.NuclearSupportBox
+
+! 8/6/2017, 8:01:59 PM http://explosm.net/comics/4689/
+explosm.net##.header-leaderboard-container
+
+! 8/6/2017, 8:02:11 PM http://explosm.net/comics/4689/
+explosm.net##.sidebar-content-block.columns.large-12.medium-4.small-12:nth-of-type(1)
+
+! 8/6/2017, 8:02:17 PM http://explosm.net/comics/4689/
+explosm.net##.sidebar-content-block.columns.large-12.medium-4.small-12:nth-of-type(3)
+
+! 8/6/2017, 8:02:48 PM http://explosm.net/comics/4689/
+explosm.net##.sidebar-content-block.columns.large-12.medium-4.small-12:nth-of-type(5)
+
+! 9/20/2017, 10:20:23 PM https://k2nblog.com/mini-album-bts-love-yourself-her/
+k2nblog.com##.onp-sl-overlap-background
+
+! 9/20/2017, 10:20:33 PM https://k2nblog.com/mini-album-bts-love-yourself-her/
+k2nblog.com##.onp-sl-position-middle.onp-sl-overlap-locker-box
+
+! 9/20/2017, 10:20:46 PM https://k2nblog.com/mini-album-bts-love-yourself-her/
+k2nblog.com##.onp-sl-secrets-theme.onp-sl-transparence-mode.onp-sl-overlap-box
